@@ -1,0 +1,15 @@
+#horizon {
+        animation: move 2s linear infinite;
+       
+        -webkit-animation-name: prop-600;
+        -webkit-animation-duration: 20s;
+        -webkit-animation-iteration-count: infinite;
+    }
+    @-webkit-keyframes prop-600 {
+        0% {
+            -webkit-transform: translateX(0px);
+        
+        }
+    }
+
+    
